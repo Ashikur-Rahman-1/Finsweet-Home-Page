@@ -1,0 +1,50 @@
+@media (max-width: 575.98px) {
+
+  .heading__title {
+    font-size: 19px; 
+}
+
+  #inquiryPart {
+    padding: 0px 0 31px;
+  }
+  .inquiryLeft__overlayTitle {
+    max-width: 100%;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 47px;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .inquiryRight__title {
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 25px;
+    max-width: 100%;
+    padding-top: 23px;
+    text-align: center;
+  }
+
+  .inquiryRight__summary {
+    font-size: 13px;
+    line-height: 25px;
+    max-width: 100%;
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  .startupsRigh--input {
+    width: 76%;
+    margin-left: 11px;
+  }
+
+  .startupsRigh__inputBtn {
+    margin-left: 92px;
+}
+
+  /* ===============blog part============ */
+  #blogPart {
+    padding: 0px 0 31px;
+  }
+  /* ===============blog part============ */
+}

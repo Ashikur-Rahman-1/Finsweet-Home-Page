@@ -1,0 +1,102 @@
+
+@media (max-width: 991.98px) {
+  .customNavButton {
+    background-color: white;
+  }
+
+  .customNavButton:focus {
+    box-shadow: none;
+  }
+
+  .navLI {
+    width: 100%;
+    background-color: var(--button_color);
+
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px 0;
+  }
+
+  .navLI--firstElement {
+    margin-top: 30px;
+  }
+
+  .navbar_item {
+    color: var(--white_color);
+  }
+
+  .btn {
+    margin-top: 30px;
+    width: 100%;
+    margin-left: 0px !important;
+  }
+
+  .BannerTextPart {
+    text-align: center;
+  }
+
+  .BannerTextPart__title {
+    font-size: 47px;
+    font-weight: 550;
+    line-height: 67px;
+  }
+
+  #Banner_part {
+    padding: 50px 0 128px;
+  }
+
+  .workLeft {
+    text-align: center;
+  }
+
+  .workItem {
+    text-align: center;
+  }
+
+  .workLeft__btn {
+    padding-top: 9px;
+  }
+
+  .featuresPart__headerTitleTwo {
+    max-width: 100%;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
+  }
+
+  #featuresPart {
+    padding: 52px 0;
+  }
+
+  #clientPart {
+    padding: 64px 0;
+    text-align: center;
+  }
+
+  .clientInfo {
+    justify-content: center;
+  }
+  .clientRight__sumamary {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .clientLeft__details {
+    padding-bottom: 10px;
+  }
+
+  /* =========faq part responsive start======== */
+
+  .faqLeft {
+    text-align: center;
+  }
+
+  .faqLeft__title {
+    max-width: 100%;
+  }
+  /* =========faq part responsive end======== */
+
+  .startupsRigh__inputBtn {
+    margin-left: 149px;
+  }
+}

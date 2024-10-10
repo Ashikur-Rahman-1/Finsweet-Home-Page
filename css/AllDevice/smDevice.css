@@ -1,0 +1,35 @@
+@media (max-width: 767.98px) {
+  .startupsRigh__inputBtn {
+    margin-left: 62px;
+  }
+
+  .blogPart__item {
+    padding: 0px 15px 0;
+  }
+
+  #footerPart {
+    padding: 30px 0 0px;
+  }
+
+  .footerPart__left {
+    text-align: center;
+  }
+
+  .footerPart__leftSummary {
+    max-width: 100%;
+    padding: 15px 13px 30px;
+  }
+
+  .footerPart__right {
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .footerPart__rightSummary {
+    max-width: 100%;
+  }
+
+  .footerPart__rightSocialIcon {
+    margin-bottom: 20px;
+  }
+}
